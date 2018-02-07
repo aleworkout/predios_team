@@ -37,7 +37,7 @@ module Workspace
       :address              => "smtp.gmail.com",
       :port                 =>  587, # 25,
       :domain               => 'gmail.com',
-      :user_name            => 'R.Alejandro989@gmail.com', # 'sistemas',
+      :user_name            => 'prediosaplicativo@gmail.com', # 'sistemas',
       :password             =>  ENV["email_password"],
       :authentication       => 'plain',
       #:ssl => true,
